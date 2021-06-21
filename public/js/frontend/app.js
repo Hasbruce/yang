@@ -77801,9 +77801,9 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       staticClass: "introduce"
     }, [_c('p', {
       staticClass: "large-title"
-    }, [_vm._v("从高质量的视频中学习 Laravel 和 Web 开发")]), _vm._v(" "), _c('p', {
+    }, [_vm._v("做一位医药守护者")]), _vm._v(" "), _c('p', {
       staticClass: "small-title"
-    }, [_vm._v("最持久的教学理念")]), _vm._v(" "), _c('p', {
+    }, [_vm._v("永远的坚持")]), _vm._v(" "), _c('p', {
       staticClass: "type-select"
     }, [_c('el-button', {
       attrs: {
@@ -77811,13 +77811,13 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       }
     }, [_c('i', {
       staticClass: "fa fa-thumbs-up"
-    }), _vm._v("开始学习")]), _vm._v(" "), _c('el-button', {
+    }), _vm._v("哈哈哈")]), _vm._v(" "), _c('el-button', {
       attrs: {
         "type": "success"
       }
     }, [_c('i', {
       staticClass: "fa fa-star"
-    }), _vm._v("加入我们")])], 1)])])
+    }), _vm._v("咻咻咻")])], 1)])])
   }), 1)], 1)]), _vm._v(" "), _c('div', {
     staticClass: "content-container"
   }, [_c('div', {
