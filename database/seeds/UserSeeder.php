@@ -17,7 +17,8 @@ class UserSeeder extends Seeder
             $data[] = [
                 'username' => 'user' . $i,
                 'email'    => 'userEmail' . $i . '@qq.com',
-                'face'     => 'http://owmb1f0qu.bkt.clouddn.com/test/beauty.jpg',
+//                'face'     => 'http://owmb1f0qu.bkt.clouddn.com/test/beauty.jpg',
+                'face'     => '/images/beauty.jpg',
                 'password' => Hash::make('123456'),
                 'active'   => 1,
                 'status'   => 1,
