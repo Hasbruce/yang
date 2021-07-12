@@ -13,7 +13,7 @@ class AdminSeeder extends Seeder
      */
     public function run()
     {
-        for ($i = 1; $i < 100; $i++) {
+        for ($i = 1; $i < 50; $i++) {
             $data[] = [
                 'username'           => 'admin' . $i,
                 'email'              => 'admin' . $i . '@qq.com',
